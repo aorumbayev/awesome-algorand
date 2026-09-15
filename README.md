@@ -435,6 +435,8 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 - [Metrika](https://app.metrika.co/dashboard/algorand/) - Algorand network performance and account monitor.
 - [OnchainPulse ASA Safety Scanner](https://onchainpulse.theaslangroupllc.com) - Automated ASA token-safety check: clawback/freeze/manager authorities, default-frozen flag, holder concentration and Tinyman liquidity fused into a deterministic CLEAR/CAUTION/AVOID verdict, per-call via x402 (settles in Algorand USDC).
 - [OpenChainBench](https://openchainbench.com) - Independent RPC latency and L1 finality benchmarks for Algorand and 20+ other chains. Continuous measurements from 3 global regions, MIT licensed.
+- [HostDeFi](https://hostdefi.com) - Free token-safety scanner for Solana and EVM tokens: A+–F grades from on-chain checks, keyless REST API, hosted MCP server.
+
 
 ## SSI, DID and Verifiable Credentials
 
